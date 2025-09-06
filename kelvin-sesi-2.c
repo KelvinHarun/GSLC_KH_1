@@ -11,7 +11,7 @@
     printf("what is the length of a square : ");
     scanf("%d",&length);
 
-     printf("what is the width of a square : ");
+    printf("what is the width of a square : ");
     scanf("%d",&width);
 
     area = length * width ;
