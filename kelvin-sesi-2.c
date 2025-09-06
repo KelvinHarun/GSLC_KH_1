@@ -17,5 +17,6 @@
     area = length * width ;
     printf("the area is : %d",area);
 
+    
     return 0;
 }
