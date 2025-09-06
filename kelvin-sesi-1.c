@@ -12,7 +12,7 @@ int main()
     width  = 2 ;
 
     area = length * width ;
-    printf("the area is = %d \n\n",area);
+    printf("the area is = %d ",area);
     
     return 0 ;
 }
